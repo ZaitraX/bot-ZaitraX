@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'kizuna'; 
-const instagram = ''; 
-const telegram = ''; 
+const instagram = 'https://www.instagram.com/zaitrax25/?hl=id'; 
+const telegram = 'LINK TELE'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = '';
+const youtube = 'LINK YOUTUBE';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
