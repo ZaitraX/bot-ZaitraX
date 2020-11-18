@@ -22,7 +22,6 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > npm i -g ytdl
 > npm i
 > npm i got
-> bash install.sh
 > node index.js
 ```
 
